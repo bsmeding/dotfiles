@@ -4,3 +4,5 @@ Thumbs.db
 .bundle
 secret*
 vault*
+.vault
+*vault
